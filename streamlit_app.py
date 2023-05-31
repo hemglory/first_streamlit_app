@@ -1,3 +1,3 @@
 #created the main python file
-Import Streamlit
+Pip Import Streamlit
 Streamlit.title('My parents new healthy diner')
